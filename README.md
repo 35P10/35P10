@@ -8,7 +8,7 @@ Hi there! Welcome to my profile
 
 
  - 👯 I'm looking to collaborate on full stack web apps!
- - 💬 Ask me about music and videogames.
+ - 💬 Ask me about music and video games.
  
 ---
 
