@@ -3,7 +3,7 @@ Hi there! <img src="https://win98icons.alexmeub.com/icons/png/tree-0.png" width=
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Developer;Freelancer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Developer&center=true&width=380&height=45"></a>
 </p>
 
 
