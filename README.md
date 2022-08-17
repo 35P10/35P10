@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there! <img src="https://win98icons.alexmeub.com/icons/png/tree-0.png" width="17"> Welcome to my profile
+Hi there! <img src="https://win98icons.alexmeub.com/icons/png/tree-0.png" width="23"> Welcome to my profile
 </h1>
 
 <p align="center">
