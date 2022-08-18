@@ -9,9 +9,13 @@ Hi there! <img src="https://win98icons.alexmeub.com/icons/png/tree-0.png" width=
 
  - 👯 I'm looking to collaborate on full stack web apps!
  - 💬 Ask me about music and video games.
- 
 ---
+<h3 align="center">
+Connect with me
+</h3>
 
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:villanueva.guerrero@outlook.com)
+---
 ### <img src="https://win98icons.alexmeub.com/icons/png/keyboard-5.png" width="17"> Programming Languages
 
 ![i5-7th-gen](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
