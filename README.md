@@ -1,14 +1,10 @@
 <h1 align="center">
-Hi there! <img src="https://win98icons.alexmeub.com/icons/png/tree-0.png" width="23"> Welcome to my profile
+Hi there!
 </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Developer&center=true&width=380&height=45"></a>
 </p>
-
-
- - 👯 I'm looking to collaborate on full stack web apps!
- - 💬 Ask me about music and video games.
 
 ---
 ### <img src="https://win98icons.alexmeub.com/icons/png/keyboard-5.png" width="17"> Programming Languages
@@ -47,6 +43,3 @@ Hi there! <img src="https://win98icons.alexmeub.com/icons/png/tree-0.png" width=
 ![Ryzen-5-5600x](https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![gtx-1060](https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
----
-### Stats
-[![35p10's GitHub stats](https://github-readme-stats.vercel.app/api?username=35P10&show_icons=true&theme=github_dark)](https://github.com/35P10)
