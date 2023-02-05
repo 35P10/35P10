@@ -36,10 +36,3 @@ Hi there!
 ### <img src="https://win98icons.alexmeub.com/icons/png/computer_explorer_cool-0.png" width="17"> Workspace Setup
 ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![i5-7th-gen](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
-![i5-7th-gen](https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-![Ryzen-5-5600x](https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![gtx-1060](https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
