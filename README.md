@@ -18,6 +18,7 @@ Hi there!
 
 ### <img src="https://win98icons.alexmeub.com/icons/png/defragment-0.png" width="17"> Frameworks and Libraries
 ![vs-code](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![vs-code](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![i5-7th-gen](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![vs-code](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -35,4 +36,3 @@ Hi there!
 
 ### <img src="https://win98icons.alexmeub.com/icons/png/computer_explorer_cool-0.png" width="17"> Workspace Setup
 ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
