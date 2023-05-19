@@ -4,6 +4,7 @@
 
 ---
 ### <img src="https://win98icons.alexmeub.com/icons/png/keyboard-5.png" width="17"> Programming Languages
+<img align="right" alt="coding" width="400" src= "https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif">
 
 ![i5-7th-gen](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![i5-7th-gen](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,5 +37,13 @@
 ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
+<div align="center">
+<img alt="PC image" width="100" src= "https://www.adity.cl/blog/wp-content/uploads/2016/10/giphy-2-1.gif">  
+ <img alt="PC image" width="100" src= "https://www.adity.cl/blog/wp-content/uploads/2016/10/giphy-2-1.gif">
+ <img alt="PC image" width="100" src= "https://www.adity.cl/blog/wp-content/uploads/2016/10/giphy-2-1.gif">  
+ </div>
+
 ---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=35P10&hide_progress=false&theme=tokyonight)
+
