@@ -46,8 +46,7 @@
  <img alt="PC image" width="100" src= "https://www.adity.cl/blog/wp-content/uploads/2016/10/giphy-2-1.gif">
  <img alt="PC image" width="100" src= "https://www.adity.cl/blog/wp-content/uploads/2016/10/giphy-2-1.gif">  
  </div>
-
+<!---
 ---
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=35P10&hide_progress=false&theme=tokyonight)
-
+-->
