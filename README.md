@@ -1,6 +1,15 @@
+<!---
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Developer&center=true&width=380&height=45"></a>
 </p>
+-->
+
+- 👋 Hi, I’m Villanueva.
+- 👀 I’m interested in Computer Graphics and AI.
+- 🌱 I’m currently learning how to get Current Date in Golang.
+- 💞️ I’m looking to collaborate on GameJams projects.
+- ⚡ Fun fact: WP was best OS for mobile.
+
 
 ---
 ### <img src="https://win98icons.alexmeub.com/icons/png/keyboard-5.png" width="17"> Programming Languages
