@@ -6,9 +6,9 @@
 
 - 👋 Hi, I’m Villanueva.
 - 👀 I’m interested in Computer Graphics and AI.
-- 🌱 I’m currently learning how to get Current Date in CPP.
-- 💞️ I’m looking to collaborate on GameJams projects.
-- ⚡ Fun fact: WP was best OS for mobile.
+- 🌱 I’m currently learning how to get Current Date in cpp.
+- 💞️ I’m looking to collaborate on GameJams.
+- ⚡ Fun fact: The first computer bug was an actual bug. 🐛
 
 
 ---
